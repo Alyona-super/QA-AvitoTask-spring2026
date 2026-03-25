@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 ##### Задание №1: Поиск bag'ов на скриншоте
  Со всей информацией можно ознакомиться в Task1.md в корне репозитория
 
 ##### Задание №2: UI-тесты
 
 
-#### Отчет
+##### Отчет
 
 ### Тест-кейсы написаны в google-таблице: https://docs.google.com/spreadsheets/d/1vAlFSbtkZkQY88fN94tMmLuOOaUPIatikfGtHHa48-I/edit?usp=sharing
 ![img.png](img.png)
