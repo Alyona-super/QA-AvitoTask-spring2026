@@ -5,7 +5,7 @@
 ##### Задание №1: Поиск bag'ов на скриншоте
  Со всей информацией можно ознакомиться в [Task1.md](https://github.com/Alyona-super/QA-AvitoTask-spring2026/blob/main/Task1.md) в корне репозитория
 
-##### Задание №2: UI-тесты. Отчёт по заданию находится в файле:
+##### Задание №2: UI-тесты. Отчёт по заданию находится в файле: [TESTCASES.md](https://github.com/Alyona-super/QA-AvitoTask-spring2026/blob/main/TESTCASES.md)
 
 
 #### !Запуск тестов!
