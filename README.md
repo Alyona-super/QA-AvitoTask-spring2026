@@ -11,7 +11,7 @@
 ##### Отчет
 
 ### Тест-кейсы написаны в google-таблице: https://docs.google.com/spreadsheets/d/1vAlFSbtkZkQY88fN94tMmLuOOaUPIatikfGtHHa48-I/edit?usp=sharing
-![img.png](img.png)
+![img_3.png](img_3.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 ### Пройденные тесты: Сортировка объявлений по цене (возрастание/убывание), Фильтрация по выбранной категории, Переключение между темной и светлой темой на мобильном разрешении.
